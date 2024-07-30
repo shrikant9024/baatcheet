@@ -1,4 +1,4 @@
-# Video Calling App
+# BaatCheet(Video Calling App)
 
 A React-based video calling application with a Node.js backend. This app leverages Socket.io for real-time communication and WebRTC for establishing peer-to-peer video calls. The app includes a lobby screen for joining rooms and a room page for initiating video calls. The Context API is used for managing socket connections efficiently.
 
