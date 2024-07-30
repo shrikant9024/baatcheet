@@ -21,7 +21,7 @@ A React-based video calling application with a Node.js backend. This app leverag
 
 1. **Clone the repository:**
     ```bash
-    git clone <https://github.com/shrikant9024/baatcheet.git>
+    git clone https://github.com/shrikant9024/baatcheet.git
     ```
 
 2. **Install dependencies for the backend:**
